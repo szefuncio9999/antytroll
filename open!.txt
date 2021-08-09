@@ -1,0 +1,4 @@
+Zmieńcie sobie czas w cliencie, został on zmiejszony z powodu testu
+
+
+Change your time in client, it was reduced due to the test
